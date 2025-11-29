@@ -3,3 +3,6 @@ This project applies multiclass classification to the UCI Abalone dataset to pre
 
 ## Video Link:
 https://www.youtube.com/watch?v=pnAOsEvE1sU
+
+## Interactive Demo (Hugging Face):
+https://huggingface.co/spaces/z1abbasi/abalone_project
