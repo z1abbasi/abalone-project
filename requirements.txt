@@ -1,0 +1,5 @@
+pycaret[full]
+ucimlrepo
+pandas
+seaborn
+matplotlib
