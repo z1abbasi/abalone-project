@@ -83,4 +83,4 @@ cd abalone-project
 pip install -r requirements.txt
 
 # 3. Open the notebook
-jupyter notebook "Machine Learning Final Project.ipynb"
+jupyter notebook "abalone_project.ipynb"
